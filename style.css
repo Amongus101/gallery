@@ -1,0 +1,58 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+#app1 {
+    width: 100%;
+    height: 800px;
+    background-color: burlywood;
+}
+.container
+{
+    text-align: center;
+}
+
+#mycarousel{
+    background-color: crimson;
+    
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: floralwhite;
+}
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+#app1 {
+    width: 100%;
+    height: 800px;
+    background-color: burlywood;
+}
+.container
+{
+    text-align: center;
+}
+
+#mycarousel{
+    background-color: crimson;
+    
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: floralwhite;
+}
